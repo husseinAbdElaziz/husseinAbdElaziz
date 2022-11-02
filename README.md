@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Self learner.
-- 💼 &nbsp; Working as a Front-end developer at [Netways](https://www.netways.com/)..
+- 💼 &nbsp; Working as a Front-end developer at [Netways](https://www.netways.com/).
 - 🌱 &nbsp; Learning more about Web Technologies, Systems Design and Dev-ops.
 
 ### 🛠 &nbsp;Tech Stack
