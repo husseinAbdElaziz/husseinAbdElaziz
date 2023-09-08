@@ -44,7 +44,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-[![name](https://img.shields.io/badge/LinkedIn-Hussein%20Abd%20Elaziz-blue?style=flat-square&logo)](https://www.linkedin.com/in/husseinAbdElaziz/)
+[![name](https://img.shields.io/badge/LinkedIn-Hussein%20AbdElaziz-blue?style=flat-square&logo)](https://www.linkedin.com/in/husseinAbdElaziz/)
 [![name](https://img.shields.io/badge/Instagram-hussein_abdelaziz-blue?style=flat-square&logo=instagram)](https://www.instagram.com/hussein_abdelaziz/)
 [![name](https://img.shields.io/badge/Email-husseinabdelaziz8@gmail.com-blue?style=flat-square&logo=gmail)](mailto:husseinabdelaziz8@gmail.com)
 
